@@ -22,8 +22,7 @@ The dataset contains:
 - Product Category  
 
 📥 Dataset available in this repository.
-
----
+[Download Dataset](https://raw.githubusercontent.com/jitendera-code/vrinda_store_sales-analysis_Excel/main/Vrinda%20Store%20Data%20Analysis.xlsx)
 
 ## ❓ Key Business Questions (KPIs)
 - Compare the **sales and orders** using a single chart  
