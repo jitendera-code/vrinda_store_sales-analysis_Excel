@@ -1,79 +1,73 @@
-# 📊 Vrinda Store Annual Sales Dashboard 
+# 📊 Vrinda Store Annual Sales Dashboard (2022)
 
 ## 🧾 Project Overview
-This project presents a comprehensive data analysis dashboard for Vrinda Store's 2022 sales performance. The dashboard is created using Microsoft Excel and provides insights into sales trends, customer behavior, and channel performance.
+This project presents a comprehensive data analysis dashboard for **Vrinda Store's 2022 sales performance**.  
+The dashboard is built using **Microsoft Excel** and provides insights into sales trends, customer behavior, and business performance.
 
 ---
 
-## 🎯 Objective
-The main goal of this project is to:
-- Analyze annual sales performance  
-- Identify key revenue-driving states and channels  
-- Understand customer demographics (age & gender)  
-- Evaluate order status distribution  
+## 🎯 Project Objective
+The Vrinda Store wants to create an annual sales report for 2022 so that the owner can understand customer behavior and grow sales in 2023 & 2024.
 
 ---
 
-## 📁 Dataset
-The dataset used in this project contains order-level transactional data including:
+## 📁 Dataset Used
+The dataset contains:
 - Order ID  
-- Date  
-- Customer demographics  
-- Sales amount  
-- Order status  
-- Sales channel  
+- Order Date  
+- Customer Gender & Age  
+- Sales Amount  
+- Order Status  
+- Sales Channel  
+- Product Category  
 
-Download the dataset from the repository files.
+📥 Dataset available in this repository.
 
 ---
 
 ## ❓ Key Business Questions (KPIs)
-- Who purchases more: Men or Women?  
-- What is the order status distribution (Delivered, Cancelled, Returned, Refunded)?  
-- Which are the Top 5 states by sales?  
-- Which sales channels contribute the most?  
-- What is the monthly sales trend vs orders?  
-- How does age group vs gender impact sales?  
+- Compare the **sales and orders** using a single chart  
+- Which month got the **highest sales and orders?**  
+- Who purchased more: **Men or Women?**  
+- What are the **different order statuses in 2022?**  
+- Top 5 states contributing to sales  
+- Relation between **age and gender based on orders**  
+- Which **channel contributes the most sales?**  
+- Highest selling category  
+- Percentage of **orders delivered**  
 
 ---
 
-## 📊 Dashboard Features
-The Excel dashboard includes:
-
-- Order vs Sales Trend (Monthly)  
-- Order Status Distribution  
-- Sales by Channel (Amazon, Flipkart, Meesho, etc.)  
-- Top 5 States by Sales  
-- Age vs Gender Analysis  
-- Men vs Women Sales Comparison  
-
-Interactive Filters (Slicers):
-- Category  
-- Channel  
-- Month  
+## ⚙️ Process
+- Cleaned and verified data (missing values, formatting issues)  
+- Created pivot tables for analysis  
+- Built charts for each KPI  
+- Combined all visuals into one interactive dashboard  
+- Added slicers (Category, Channel, Month) for interactivity  
 
 ---
 
-## 🛠️ Tools & Technologies Used
-- Microsoft Excel  
-  - Pivot Tables  
-  - Pivot Charts  
-  - Slicers  
-  - Data Cleaning  
+## 📊 Dashboard Preview
+
+![Vrinda Dashboard](https://raw.githubusercontent.com/jitendera-code/vrinda_store_sales-analysis_Excel/main/Screenshot%202026-04-23%20015048.jpg)
 
 ---
 
 ## 📌 Key Insights
-- Women contribute ~64% of total sales  
-- Majority of orders (~92%) are delivered  
-- Amazon is the leading sales channel (~35%)  
-- Maharashtra and Karnataka are top-performing states  
-- Adults contribute the highest share of purchases  
+- Women contribute around **64–65% of total sales**  
+- Over **90% orders are successfully delivered**  
+- **Amazon, Flipkart, Myntra** are top-performing channels  
+- **Maharashtra, Karnataka, Uttar Pradesh** lead in sales  
+- Adult age group (30–49 years) contributes the most  
 
 ---
 
-## 📷 Dashboard Preview
--<a href="https://github.com/jitendera-code/vrinda_store_sales-analysis_Excel/blob/main/Screenshot%202026-04-23%20015048.jpg
+## 🛠️ Tools Used
+- Microsoft Excel  
+  - Pivot Tables  
+  - Charts  
+  - Slicers  
+  - Data Cleaning  
 
 ---
 
@@ -81,15 +75,18 @@ Interactive Filters (Slicers):
 1. Download the Excel file from this repository  
 2. Open in Microsoft Excel  
 3. Use slicers to interact with the dashboard  
-4. Analyze insights  
+4. Analyze trends and insights  
 
 ---
 
 ## 📈 Conclusion
-This project demonstrates how Excel can be used as a powerful data analysis tool to generate meaningful business insights through visualization and dashboards.
+To improve sales, Vrinda Store should focus on **women customers aged 30–49 years**, especially in top-performing states, using targeted marketing and channel optimization strategies.
 
 ---
 
 ## 🙌 Author
-Jitender Yadav  
+**Jitender Yadav**  
 Aspiring Data Analyst  
+
+
+
