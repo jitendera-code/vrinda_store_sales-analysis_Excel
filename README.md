@@ -73,7 +73,7 @@ Interactive Filters (Slicers):
 ---
 
 ## 📷 Dashboard Preview
-https://github.com/jitendera-code/vrinda_store_sales-analysis_Excel/blob/main/Screenshot%202026-04-23%20015048.jpg
+-<a href="https://github.com/jitendera-code/vrinda_store_sales-analysis_Excel/blob/main/Screenshot%202026-04-23%20015048.jpg
 
 ---
 
