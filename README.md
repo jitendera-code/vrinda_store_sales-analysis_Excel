@@ -32,6 +32,8 @@ This project focuses on analyzing retail sales data to generate actionable busin
 * Regional Sales Distribution
 * Customer Segmentation Insights
 * Category-wise Performance
+  
+  https://github.com/jitendera-code/vrinda_store_sales-analysis_Excel/blob/main/Screenshot%202026-04-23%20015048.jpg
 
 ## 🚀 Business Impact
 
