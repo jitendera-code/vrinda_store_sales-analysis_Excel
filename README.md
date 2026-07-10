@@ -186,9 +186,9 @@ Based on the analysis, the following recommendations are proposed to improve sal
 Vrinda-Store-Sales-Analysis/
 │
 ├── README.md
-├── Vrinda Store Data Analysis.xlsx
 ├── Raw_Data.xlsx
-└── Dashboard.png
+├──Dashboard.png
+└── Vrinda Store Data Analysis.xlsx
 ```
 
 ---
